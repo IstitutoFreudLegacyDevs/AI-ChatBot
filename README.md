@@ -4,7 +4,6 @@
 ## **Caratteristiche**
 - Risposte rapide e precise.
 - Comprensione del linguaggio naturale.
-- 
 ## **Licenza d'uso**
 - L'uso commerciale è vietato senza autorizzazione esplicita.
 - Creato esclusivamente per scopi personali e non lucrativi.
